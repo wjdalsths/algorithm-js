@@ -34,7 +34,7 @@ hello world
 <br>
 <br>
 
-# .repeat
+# repeat()
 
 repeat() 함수는 주어진 문자열을 옵션의 count 만큼 반복하여 붙인 다음에 새로운 문자열로 반환한다.
 
