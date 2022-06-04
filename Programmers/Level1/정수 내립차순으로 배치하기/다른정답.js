@@ -4,3 +4,4 @@ function solution(n) {
 
   return +newArr;
 }
+console.log(solution(118372));
