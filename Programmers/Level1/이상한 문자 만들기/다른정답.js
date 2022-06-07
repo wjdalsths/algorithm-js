@@ -3,3 +3,4 @@ function toWeirdCase(s) {
     return a[0].toUpperCase() + a[1].toLowerCase();
   });
 }
+//(\w)(\w) 연속된 2문자
